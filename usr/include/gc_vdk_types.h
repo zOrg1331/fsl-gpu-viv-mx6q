@@ -26,7 +26,7 @@ extern "C" {
 #endif
 
 #include <EGL/egl.h>
-#include "gc_hal_eglplatform.h"
+#include <HAL/gc_hal_eglplatform.h>
 
 /*******************************************************************************
 ** vdkPrivate. *****************************************************************
